@@ -43,7 +43,7 @@ button {
   height: calc(192.92344665527344 * var(--rpx));
   right: calc(3.57257080078125 * var(--rpx));
   bottom: calc(2.3817596435546875 * var(--rpx));
-  background: url(assets/images/1f45f5a71089dd9ce033a81f8fe9f8cab9b8d2b8.png)
+  background: url(/assets/images/1f45f5a71089dd9ce033a81f8fe9f8cab9b8d2b8.png)
     no-repeat center;
   background-size: cover;
   z-index: 4;
